@@ -1,0 +1,92 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-40,
+				330
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "LoggoSpookIdle"
+		},
+		{
+			"offsets": [
+				559,
+				192
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LoggoSpookLeft"
+		},
+		{
+			"offsets": [
+				-53,
+				187
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "LoggoSpookDown"
+		},
+		{
+			"offsets": [
+				-76,
+				421
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "LoggoSpookUp"
+		},
+		{
+			"offsets": [
+				10,
+				272
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "LoggoSpookRight"
+		},
+		{
+			"offsets": [
+				-40,
+				330
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle-loop",
+			"indices": [
+				9,
+				11
+			],
+			"name": "LoggoSpookIdle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/loggo-d-scary",
+	"position": [
+		-110,
+		70
+	],
+	"healthicon": "icon-boo",
+	"flip_x": false,
+	"healthbar_colors": [
+		67,
+		14,
+		26
+	],
+	"camera_position": [
+		30,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

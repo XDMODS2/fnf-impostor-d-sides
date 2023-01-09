@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				160,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Loggo Idle"
+		},
+		{
+			"offsets": [
+				192,
+				-179
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Loggo Left"
+		},
+		{
+			"offsets": [
+				145,
+				-248
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Loggo Down"
+		},
+		{
+			"offsets": [
+				157,
+				-178
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Loggo Up"
+		},
+		{
+			"offsets": [
+				129,
+				-187
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Loggo Right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/loggo-d",
+	"position": [
+		-40,
+		20
+	],
+	"healthicon": "icon-fella",
+	"flip_x": false,
+	"healthbar_colors": [
+		67,
+		14,
+		26
+	],
+	"camera_position": [
+		-200,
+		340
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
